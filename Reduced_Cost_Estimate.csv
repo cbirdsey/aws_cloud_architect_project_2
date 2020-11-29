@@ -14,6 +14,7 @@ My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,92.07,11
 , DT Intra-Region: (0 TB per month) 
 , Data transfer cost (92.07)"
 My Estimate,US East (N. Virginia),,Elastic Load Balancing,0,1200.85,14410.2,USD,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),,Amazon Elastic IP,0,0,0,USD,"Number of EC2 instances (1), Number of EIPs per instance (1)"
 ,,,,,,,,
 *Changed number of EC2 instances from 12 to 8. Changed RDS storage from 5TB to 4TB and changed db.m5.12xlarge to db.m5.8xlarge,,,,,,,,
 ,,,,,,,,
