@@ -1,0 +1,21 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),,Amazon EC2,0,1241.25,14895,USD,"Operating system (Linux), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Snapshot Frequency (2x Daily), Amount changed per snapshot (3 GB), DT Inbound: Not selected (0 TB per month) 
+, DT Outbound: Not selected (0 TB per month) 
+, DT Intra-Region: (0 TB per month) 
+, Workload (Consistent, Number of instances: 12), Advance EC2 instance (t2.xlarge), Pricing strategy (EC2 Instance Savings Plans 1 Year  None upfront)"
+My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,493.65,5923.8,USD,Number of NAT Gateways (1)
+My Estimate,US East (N. Virginia),,Amazon RDS for MySQL,0,5015.356,60184.27,USD,"Quantity (2), Pricing strategy (Standard Reserved Instances 1 Year No Upfront), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (5 TB), Instance type (db.m5.12xlarge)"
+My Estimate,US East (N. Virginia),,S3 Standard,0,235.52,2826.24,USD,S3 Standard storage (10 TB per month)
+My Estimate,US East (N. Virginia),,Data Transfer,0,92.07,1104.84,USD,"DT Inbound: Internet (0 TB per month) 
+, DT Outbound: Internet (1 TB per month) 
+"
+My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,92.07,1104.84,USD,"DT Inbound: Not selected (0 TB per month) 
+, DT Outbound: Internet (1 TB per month) 
+, DT Intra-Region: (0 TB per month) 
+, Data transfer cost (92.07)"
+My Estimate,US East (N. Virginia),,Elastic Load Balancing,0,1200.85,14410.2,USD,Number of Application Load Balancers (2)
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Acknowledgement,,,,,,,,
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,,
